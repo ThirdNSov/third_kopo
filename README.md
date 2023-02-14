@@ -1,6 +1,7 @@
 # third_kopo
 
-This package is a rewritten Korean postal code search service based on the [kopo](https://pub.dev/packages/kopo) package.
+This package is a rewritten Korean postal code search service based on the [kopo](https://pub.dev/packages/kopo) package.  
+[Forked from Kopo](https://github.com/ehowlsla/kopo)
 
 
 ## Setup

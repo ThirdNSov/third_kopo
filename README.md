@@ -19,7 +19,7 @@ You should ensure that you add the router as a dependency in your flutter projec
 dependencies:
  third_kopo: 
   git:
-    url: https://github.com/flutter/plugin1.git
+    url: https://github.com/ThirdNSov/third_kopo
 ```
 
 ## Example

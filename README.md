@@ -17,7 +17,9 @@ defaultConfig {
 You should ensure that you add the router as a dependency in your flutter project.
 ```yaml
 dependencies:
- third_kopo: ^0.0.1
+ third_kopo: 
+  git:
+    url: https://github.com/flutter/plugin1.git
 ```
 
 ## Example

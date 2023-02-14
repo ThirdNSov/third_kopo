@@ -3,7 +3,7 @@
 Kopo Example
 
 ```dart
-import 'package:kopo/kopo.dart';
+import 'package:kopo/third_kopo.dart';
 
 MaterialButton(
   child: Text('find Korea Postal address'),

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:kopo/kopo.dart';
+import 'package:kopo/third_kopo.dart';
 
 void main() {
   Widget createWidgetForTesting({Widget child}) {

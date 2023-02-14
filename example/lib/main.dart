@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:kopo/kopo.dart';
+import 'package:third_kopo/third_kopo.dart';
 
 void main() => runApp(MyApp());
 
@@ -41,7 +41,7 @@ class _RootPageState extends State<RootPage> {
                 KopoModel model = await Navigator.push(
                   context,
                   CupertinoPageRoute(
-                    builder: (context) => Kopo(),
+                    builder: (context) => ThirdKopo(),
                   ),
                 );
                 print(model.toJson());
